@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="HelloWorld" name="HelloWorld" path="D:/javascript_assignment/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/HelloWorld" type="static"/>
+  <module context="Timers" name="Timers" path="D:/javascript_assignment/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/Timers" type="static"/>
+</server>
